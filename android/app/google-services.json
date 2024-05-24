@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "976846791627",
+    "project_id": "my-study-life-5c96d",
+    "storage_bucket": "my-study-life-5c96d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976846791627:android:e4123b8d9a4ac995cd8c4e",
+        "android_client_info": {
+          "package_name": "com.example.mystudyife"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQXnxzoMbqxcDb5nstJlnNLCnw_DWcl9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
