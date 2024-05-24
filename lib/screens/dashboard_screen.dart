@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
 import 'study_timer_screen.dart';
 import 'task_manager_screen.dart';
 import 'class_schedule_screen.dart';
